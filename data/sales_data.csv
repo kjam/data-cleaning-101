@@ -1,0 +1,370 @@
+timestamp,city,store_id,sale_number,sale_amount,associate
+2017-02-19T17:00:00,Stephanieport,11,2162,247.0,Jenna White
+2017-02-19T22:00:00,Gutierreztown,11,754,1586.0,Laura Massey
+2017-02-20T01:00:00,Colemanside,3,2858,631.0,Jacqueline Benson
+2017-02-20T08:00:00,Harriston,1,1080,-161.0,Tina Martin
+2017-02-20T13:00:00,Lake Fernandoton,1,358,1414.0,David Khan
+2017-02-20T21:00:00,South Jackie,7,2560,869.0,Erika Townsend
+2017-02-21T03:00:00,Amandafurt,5,695,1273.0,Anne Wells
+2017-02-21T10:00:00,East Lisa,9,1911,1584.0,Linda Atkinson
+2017-02-21T11:00:00,Lake Jason,3,999,579.0,Shannon House
+2017-02-21T13:00:00,Williambury,13,43,1399.0,Thomas Martin
+2017-02-21T15:00:00,Stevenhaven,11,1425,1537.0,Terry Larsen
+2017-02-21T21:00:00,Brandyberg,12,789,1461.0,Beth Christensen
+2017-02-22T05:00:00,Port Seanborough,10,1689,1192.0,Amanda Palmer
+2017-02-22T08:00:00,Jacquelineview,7,41,1171.0,Joyce Terry
+2017-02-22T10:00:00,Mendezside,14,1571,282.0,Jeffrey Bush
+2017-02-22T16:00:00,West Sherry,7,2260,1027.0,Marc Butler
+2017-02-22T18:00:00,West Deanna,5,344,-104.0,Michael Ferguson
+2017-02-22T19:00:00,East Carol,16,1773,748.0,Felicia Warren
+2017-02-23T01:00:00,Cruzport,17,2055,434.0,Marissa Rodriguez
+2017-02-23T05:00:00,Timothyhaven,5,1190,1213.0,Nicholas Carrillo
+2017-02-23T08:00:00,East Henryland,3,2444,-338.0,Mckenzie Martinez
+2017-02-23T13:00:00,North Saraview,12,2197,386.0,Steven Walker
+2017-02-23T17:00:00,Beckland,10,1301,161.0,Megan Bonilla
+2017-02-23T21:00:00,Lake Justinfort,7,2474,1093.0,Corey Allen
+2017-02-24T06:00:00,Torresstad,17,2350,-207.0,Stephanie Perez
+2017-02-24T07:00:00,North Shane,8,1337,1481.0,Aaron Mcmahon
+2017-02-24T13:00:00,Watsonside,7,1799,1562.0,Meghan Walker
+2017-02-24T20:00:00,Lake Amandahaven,7,2190,-45.0,John Blake
+2017-02-25T01:00:00,Lake Kennethfort,15,2500,1434.0,Michele Flynn
+2017-02-25T04:00:00,Gonzalestown,15,2004,1104.0,Jose Powell
+2017-02-25T07:00:00,East Dean,16,2394,314.0,Hector Watts
+2017-02-25T15:00:00,East Jennifer,1,1593,1516.0,Victoria Lindsey
+2017-02-25T20:00:00,Terryside,3,446,525.0,Mallory Henson
+2017-02-26T02:00:00,Paulhaven,12,1358,853.0,Michael Delacruz
+2017-02-26T06:00:00,New Amandatown,18,2327,167.0,James Thomas
+2017-02-26T11:00:00,East Markton,11,631,229.0,Holly Rhodes
+2017-02-26T20:00:00,New James,15,786,1145.0,David Pineda
+2017-02-27T05:00:00,New Susanbury,19,765,244.0,Robert Moore
+2017-02-27T13:00:00,Port Tinaport,1,1393,134.0,Mr. Joshua Benson
+2017-02-27T18:00:00,Lake Ericafort,12,2633,1062.0,Benjamin Quinn
+2017-02-27T23:00:00,Nancyhaven,4,1512,1538.0,Paul White
+2017-02-28T04:00:00,South John,3,1156,1204.0,Sheila Dixon
+2017-02-28T10:00:00,New Kimton,4,1655,648.0,Michelle Kim
+2017-02-28T13:00:00,Lake Lauren,19,289,995.0,Pamela Rose
+2017-02-28T19:00:00,Kellimouth,6,185,7.0,Kelly Page
+2017-02-28T22:00:00,Lake Jeffreyborough,6,2394,819.0,Hannah Graves
+2017-03-01T02:00:00,Lake Carriehaven,1,508,597.0,Brenda Peck
+2017-03-01T04:00:00,Pittmanberg,1,957,1598.0,Anthony Dominguez
+2017-03-01T10:00:00,Kyleland,8,2424,634.0,Zachary Robbins
+2017-03-01T14:00:00,North Daniellefort,2,1656,294.0,Emily Taylor
+2017-03-01T20:00:00,Port Tracey,12,2072,726.0,Mark Garcia
+2017-03-01T23:00:00,South Stevenberg,2,702,1391.0,William Herrera
+2017-03-02T07:00:00,Deniseborough,18,514,817.0,Patricia Smith
+2017-03-02T09:00:00,West Jamesbury,8,87,1146.0,Anna Kemp DVM
+2017-03-02T18:00:00,East Williammouth,15,2384,362.0,Tracy Brooks
+2017-03-02T22:00:00,Watkinsport,5,1090,378.0,Joseph Miller
+2017-03-03T03:00:00,Alexville,7,1697,894.0,Dr. Carol Compton
+2017-03-03T12:00:00,Lake Kimberlyview,8,1485,1596.0,William Cook
+2017-03-03T18:00:00,South Michael,16,801,1488.0,Laurie Schmidt
+2017-03-04T00:00:00,West Arianafort,12,478,860.0,Dana Lamb
+2017-03-04T07:00:00,Keithfort,10,112,910.0,Steven Smith
+2017-03-04T10:00:00,Jaclynmouth,15,756,-418.0,Ryan Lewis
+2017-03-04T13:00:00,New David,5,2243,-221.0,Jennifer Lowery
+2017-03-04T18:00:00,Brownmouth,19,250,-5.0,Leah Tapia
+2017-03-05T03:00:00,East Justinshire,9,1998,219.0,Richard Foley
+2017-03-05T06:00:00,Morganmouth,17,2734,-473.0,Carrie Richardson
+2017-03-05T07:00:00,East Nathanton,14,1558,-317.0,Phillip Jimenez
+2017-03-05T14:00:00,Anthonystad,5,1196,249.0,Carol Cannon
+2017-03-05T21:00:00,Lindseyborough,4,2589,458.0,Renee Cain
+2017-03-06T01:00:00,North Julie,12,369,1194.0,William Sloan
+2017-03-06T09:00:00,South Alexandra,10,2505,499.0,Joann Anderson
+2017-03-06T12:00:00,West Tasha,1,2180,1435.0,Denise Sutton
+2017-03-06T16:00:00,Johnsonhaven,2,2416,1034.0,Melissa Bradley
+2017-03-07T01:00:00,Kaylaton,12,1898,-282.0,Rodney Brennan
+2017-03-07T06:00:00,Hollowayshire,9,1396,-275.0,Michael Fox
+2017-03-07T09:00:00,New Gary,5,445,40.0,Matthew Jones
+2017-03-07T17:00:00,Torresburgh,10,2469,67.0,Sharon Wilson
+2017-03-08T01:00:00,New Kevinberg,3,1345,-14.0,Abigail Rosario
+2017-03-08T04:00:00,Port Timothyville,7,2011,860.0,Calvin Freeman
+2017-03-08T10:00:00,Brendahaven,3,1070,332.0,Jasmine Payne
+2017-03-08T14:00:00,South Kurtville,14,2217,-174.0,Rhonda Reyes
+2017-03-08T20:00:00,Grantbury,9,1463,571.0,Valerie Roberts
+2017-03-09T04:00:00,Ortizville,19,2507,-77.0,Rachel Valentine
+2017-03-09T09:00:00,New Janetland,3,2332,199.0,Maria Harrison
+2017-03-09T18:00:00,Williston,14,1916,386.0,Albert Nguyen
+2017-03-09T19:00:00,Lake Sarahtown,16,2211,815.0,Stacy Garcia
+2017-03-10T03:00:00,Brianchester,16,683,1329.0,Joseph Grant
+2017-03-10T06:00:00,Penaview,12,2664,462.0,Heather Fisher
+2017-03-10T15:00:00,Williamsmouth,5,1882,79.0,Jennifer Marsh
+2017-03-10T22:00:00,North Paulfurt,17,2789,-414.0,Elizabeth Sanchez
+2017-03-11T03:00:00,East Annetteside,19,1870,379.0,Erika Perry
+2017-03-11T08:00:00,Murphyville,13,391,322.0,Paula Patel
+2017-03-11T13:00:00,Sarahview,8,1375,1332.0,Lance Boyer
+2017-03-11T17:00:00,Longfort,10,936,657.0,Scott Hall
+2017-03-11T20:00:00,North Lukeside,18,785,-328.0,Janet Harris
+2017-03-12T02:00:00,East Juliebury,14,2732,-365.0,Jennifer Harper
+2017-03-12T07:00:00,Davidside,5,2188,1316.0,David Garcia
+2017-03-12T15:00:00,Wilsonstad,1,1707,1211.0,Stephen Ball
+2017-03-12T22:00:00,West Jessicaport,18,62,-432.0,Aaron Diaz
+2017-03-13T04:00:00,Masonhaven,6,62,-467.0,Hector Taylor
+2017-03-13T13:00:00,Traciburgh,16,594,293.0,James Gay
+2017-03-13T21:00:00,West Kirkchester,14,2988,451.0,Charles Thomas
+2017-03-14T05:00:00,Ethanmouth,13,715,1008.0,Jesse Patterson
+2017-03-14T07:00:00,Lauramouth,18,1579,1446.0,Steven Rodriguez
+2017-03-14T08:00:00,Madelineberg,8,423,-185.0,Charles Castro
+2017-03-14T12:00:00,Kellyshire,10,2865,1211.0,Richard Coleman
+2017-03-14T20:00:00,Meltonborough,6,1812,1429.0,Susan Wilkins
+2017-03-14T23:00:00,West Tiffanyshire,9,2646,120.0,Aaron Allen
+2017-03-15T07:00:00,West Shawntown,16,489,954.0,Susan Powers
+2017-03-15T16:00:00,Alanmouth,11,590,1090.0,Jennifer Lara
+2017-03-15T21:00:00,Marybury,8,2323,274.0,Kenneth Price
+2017-03-16T05:00:00,Davisfort,18,1258,239.0,David Scott
+2017-03-16T14:00:00,Victoriaside,11,1434,591.0,Travis Dean
+2017-03-16T15:00:00,Jasonville,13,237,1023.0,Jacqueline Levine
+2017-03-16T17:00:00,New Robert,11,1507,1273.0,Joyce Moore
+2017-03-16T21:00:00,Port Heatherchester,5,1007,860.0,Michael Cherry
+2017-03-17T04:00:00,Kristinaside,16,2125,1449.0,Sharon Moore
+2017-03-17T07:00:00,Dawnville,2,1859,1401.0,Steven Manning
+2017-03-17T09:00:00,South Michaelport,10,2004,530.0,Vincent Jacobs
+2017-03-17T11:00:00,New Monique,13,2903,-431.0,Carrie Cook
+2017-03-17T18:00:00,Kathyview,2,1569,423.0,Donald Morales MD
+2017-03-18T01:00:00,Port Kathrynport,10,115,976.0,Michelle Browning
+2017-03-18T07:00:00,Turnerland,12,1024,225.0,Sandra Mcmahon
+2017-03-18T12:00:00,Port Kristenstad,3,1259,231.0,Amber Dickson MD
+2017-03-18T16:00:00,North Brianton,7,788,-111.0,Andrew Wyatt
+2017-03-19T01:00:00,Drakeland,5,1004,741.0,Brian Ellis
+2017-03-19T06:00:00,Maddenton,12,2063,1324.0,Angie Logan
+2017-03-19T09:00:00,Mcguirehaven,9,687,623.0,Carl Lee
+2017-03-19T17:00:00,Gardnerborough,12,153,1002.0,Anne White
+2017-03-19T20:00:00,Port Teresahaven,10,2329,898.0,Stephen Perry
+2017-03-20T01:00:00,Victormouth,10,1241,228.0,Michael Palmer
+2017-03-20T03:00:00,Jessicabury,4,2965,-171.0,Kimberly Harding
+2017-03-20T05:00:00,Anthonyshire,17,23,515.0,Justin Lindsey
+2017-03-20T08:00:00,Karenbury,1,2468,-19.0,Jeffrey Black
+2017-03-20T14:00:00,Melissaburgh,17,2489,-54.0,Ethan James
+2017-03-20T21:00:00,Janetbury,4,980,-230.0,Elizabeth Gonzalez
+2017-03-21T05:00:00,Erikville,4,858,1241.0,Whitney Lloyd
+2017-03-21T07:00:00,West Susan,8,2266,-443.0,Dawn Reid
+2017-03-21T14:00:00,Millerland,13,532,691.0,Joseph Gilbert
+2017-03-21T18:00:00,West James,5,1386,1206.0,Mark Harrison
+2017-03-21T19:00:00,Wendybury,6,1081,569.0,Howard Weeks
+2017-03-21T22:00:00,Charlesmouth,10,2539,784.0,Jose Hall
+2017-03-22T07:00:00,Jameshaven,1,533,-36.0,Brittney Torres
+2017-03-22T13:00:00,New Christina,7,1099,681.0,Antonio Miller
+2017-03-22T20:00:00,Parkerfort,4,1423,-372.0,Kimberly Page
+2017-03-23T00:00:00,Port David,9,922,733.0,Manuel Porter
+2017-03-23T09:00:00,Ryanstad,13,2984,164.0,Todd Smith
+2017-03-23T18:00:00,South Sydney,13,1218,1472.0,Brenda Sanders
+2017-03-23T21:00:00,Adriennetown,15,2540,1092.0,David Robinson
+2017-03-24T06:00:00,Evantown,19,2507,724.0,Leslie Robinson
+2017-03-24T11:00:00,Jennifertown,11,2778,949.0,Randy Harmon
+2017-03-24T12:00:00,Hammondborough,2,1605,-309.0,Emily Gregory
+2017-03-24T15:00:00,Brendachester,15,2097,726.0,Lindsay Palmer
+2017-03-25T00:00:00,Allisonhaven,10,473,1457.0,Rachel Martinez
+2017-03-25T07:00:00,Jenniferton,6,2943,-236.0,Kayla Santiago
+2017-03-25T11:00:00,Scottland,17,2445,1170.0,Stephanie Perez
+2017-03-25T13:00:00,North Miranda,2,469,1030.0,Anthony Walker
+2017-03-25T17:00:00,Port Davidstad,12,2823,-319.0,Nicolas James
+2017-03-25T19:00:00,South Matthew,10,2689,1327.0,Brenda Payne
+2017-03-26T01:00:00,Lake Jamesshire,12,1609,56.0,Melissa Hanson
+2017-03-26T08:00:00,Brownhaven,2,153,909.0,Caleb Trujillo
+2017-03-26T10:00:00,Christybury,1,1385,557.0,Jennifer Anderson
+2017-03-26T15:00:00,Port Mary,10,635,245.0,Ryan Walker
+2017-03-26T22:00:00,Gregoryburgh,15,776,1199.0,Brian Clark
+2017-03-27T03:00:00,East Michaelbury,4,2874,1394.0,Ms. Carla Vaughn DVM
+2017-03-27T05:00:00,Buchananburgh,18,953,557.0,Keith Wilson
+2017-03-27T13:00:00,New Amyfort,6,500,1173.0,Christina Pope
+2017-03-27T17:00:00,Dustinfurt,13,1765,686.0,Raymond Fry
+2017-03-27T22:00:00,Nicolefort,14,2428,-274.0,Katie Miller
+2017-03-28T06:00:00,New Brianborough,6,1166,1583.0,Kristen Summers
+2017-03-28T07:00:00,Tammyfurt,2,757,462.0,Crystal Hudson
+2017-03-28T14:00:00,Lauraburgh,12,1836,1258.0,Kimberly Pennington
+2017-03-28T15:00:00,Alejandroland,19,2478,1254.0,Michele Rogers
+2017-03-28T16:00:00,Lake Vanessaton,9,1854,-262.0,Carlos Jensen
+2017-03-28T18:00:00,West Richard,8,2820,1020.0,Jaime Clark
+2017-03-28T19:00:00,Port Rebekahmouth,17,1478,900.0,Nicholas Nash
+2017-03-28T21:00:00,Port Josephview,17,183,1501.0,Jeanne Curry
+2017-03-28T23:00:00,East Kevin,4,1187,936.0,Eric Day
+2017-03-29T05:00:00,West John,17,1078,116.0,Tyler Cain
+2017-03-29T13:00:00,Nancyberg,10,2392,178.0,Ashley Johnson
+2017-03-29T16:00:00,North Julie,11,2806,1035.0,Whitney Powell
+2017-03-29T22:00:00,Arnoldberg,5,417,338.0,Scott Beltran
+2017-03-30T04:00:00,Port Sydney,13,1480,-88.0,Theresa Young
+2017-03-30T06:00:00,Collinshaven,8,483,1442.0,Stephen Henry
+2017-03-30T12:00:00,New Cameronton,1,1262,-264.0,Ms. Jessica Williams
+2017-03-30T13:00:00,Ramirezton,4,2275,283.0,Harold Patton
+2017-03-30T22:00:00,North Kennethberg,10,1236,378.0,Nicholas Hughes
+2017-03-31T01:00:00,Lake Brandonfort,10,2286,492.0,Rodney Patel
+2017-03-31T10:00:00,New Zachary,10,625,145.0,Jonathan Thomas
+2017-03-31T18:00:00,New Lisaberg,6,1986,-392.0,Kimberly Stevens
+2017-03-31T20:00:00,South Stephanieview,5,30,394.0,Vanessa Allen
+2017-03-31T21:00:00,North Stephanie,12,2514,-177.0,Brett Dixon
+2017-04-01T04:00:00,North Diane,15,110,521.0,Melissa Levine
+2017-04-01T08:00:00,Sheilachester,6,2136,-298.0,Autumn Alvarado
+2017-04-01T15:00:00,Morrisstad,12,2797,991.0,Casey Moore
+2017-04-01T18:00:00,Amandaside,17,1211,1121.0,Audrey Daniels
+2017-04-02T00:00:00,South Joseph,11,232,-427.0,Tina Lopez
+2017-04-02T05:00:00,Port Nicolehaven,5,2153,629.0,Julie Payne
+2017-04-02T09:00:00,North Timothyfort,10,1564,-297.0,Stephen Carrillo
+2017-04-02T11:00:00,New Erika,9,1952,976.0,Mark Knight
+2017-04-02T15:00:00,North Stephen,7,713,109.0,Michael Reed
+2017-04-02T22:00:00,Port Lindsayhaven,5,1454,594.0,Anna Ayala
+2017-04-03T01:00:00,East Justintown,3,497,1305.0,Dillon Adams
+2017-04-03T03:00:00,Bettyport,10,2241,169.0,Karen Thompson
+2017-04-03T09:00:00,Lake Edwardfurt,1,726,345.0,Linda Guerra
+2017-04-03T12:00:00,Josephfort,4,1276,1301.0,Ricky Li
+2017-04-03T17:00:00,Johnsonchester,19,563,-225.0,Elizabeth Lynch
+2017-04-03T22:00:00,Shannontown,4,1955,-34.0,Anthony Peck DDS
+2017-04-03T23:00:00,North Katherine,5,1645,1444.0,Hannah Jones
+2017-04-04T07:00:00,North Jason,19,1176,482.0,Brian Martin
+2017-04-04T09:00:00,Romanstad,16,2930,-464.0,Melanie Stevens
+2017-04-04T16:00:00,Turnerport,3,2809,948.0,Wayne Miller
+2017-04-04T17:00:00,Kingside,11,1231,1265.0,Taylor Neal
+2017-04-05T00:00:00,Christineview,14,1067,517.0,Stephen Nolan
+2017-04-05T08:00:00,Port Alicia,6,1410,-97.0,Michael Cabrera
+2017-04-05T10:00:00,Andersonshire,14,2022,-117.0,Russell Benjamin
+2017-04-05T17:00:00,Lake Cynthia,9,2838,-122.0,Paul Palmer
+2017-04-05T20:00:00,Carpenterport,2,2696,-264.0,William Lopez
+2017-04-05T21:00:00,Foxchester,14,1077,-37.0,Joel Zhang
+2017-04-05T22:00:00,Williamville,18,2120,-246.0,Heather Patrick
+2017-04-06T00:00:00,Steinland,17,1849,1340.0,Jacob Brown
+2017-04-06T03:00:00,North Michaelfurt,9,2840,1536.0,Kathryn Ramos
+2017-04-06T11:00:00,Lake Coryland,8,1652,234.0,Benjamin Weber
+2017-04-06T18:00:00,Port Gregory,16,1889,220.0,Nancy Soto
+2017-04-06T19:00:00,Lake Anita,14,44,81.0,David Murphy
+2017-04-07T04:00:00,West Jasonport,17,1845,698.0,Robert May
+2017-04-07T13:00:00,South Peter,14,1959,542.0,Savannah James
+2017-04-07T17:00:00,Wendyhaven,13,273,374.0,Mark Harrison
+2017-04-07T21:00:00,Lake Lauren,12,652,-225.0,Jim Rogers
+2017-04-08T05:00:00,Myersborough,15,2644,19.0,Daniel Taylor
+2017-04-08T07:00:00,Brooksside,8,2703,400.0,Kristie Luna
+2017-04-08T12:00:00,Kathyton,13,2286,799.0,John Cook
+2017-04-08T21:00:00,Deanhaven,3,2693,590.0,Elaine Barber
+2017-04-08T22:00:00,New Christinaside,19,1647,921.0,Laura Thomas
+2017-04-09T07:00:00,East Shannonton,9,118,858.0,Mary Ramirez
+2017-04-09T12:00:00,Richardsville,8,806,281.0,Alejandro Gordon
+2017-04-09T20:00:00,North Donna,5,1487,1171.0,Cheryl Johnson
+2017-04-10T01:00:00,Lake Jon,2,1966,85.0,Charles Williams
+2017-04-10T10:00:00,New Alejandro,14,2882,580.0,Bonnie Rivera
+2017-04-10T17:00:00,Victoriaburgh,16,2660,-250.0,Mrs. Destiny Butler
+2017-04-10T22:00:00,Ortizberg,1,2269,414.0,Bobby Campbell
+2017-04-11T00:00:00,North Susanchester,15,1228,1175.0,Ariana Fisher
+2017-04-11T06:00:00,Allisonland,1,773,567.0,Linda Holland
+2017-04-11T10:00:00,Bridgestown,5,1169,1193.0,Abigail Lloyd
+2017-04-11T14:00:00,Guzmanhaven,1,671,-17.0,Michael Miller
+2017-04-11T16:00:00,Yoderfort,3,2490,827.0,Kevin Reeves
+2017-04-11T23:00:00,Brownview,13,975,-117.0,Brittney Nunez
+2017-04-12T01:00:00,Jasonfurt,6,394,577.0,Nathan Hartman
+2017-04-12T05:00:00,New Emily,15,2445,753.0,Olivia Williams
+2017-04-12T10:00:00,Ashleytown,1,761,835.0,Samuel Hodges
+2017-04-12T14:00:00,East Davidberg,17,978,73.0,Kevin Kim
+2017-04-12T17:00:00,Kirbyside,7,2891,949.0,David Fernandez
+2017-04-12T23:00:00,North Patriciaside,2,413,-107.0,Dylan Martin
+2017-04-13T01:00:00,South Michaelside,17,2029,1059.0,Kevin Allison
+2017-04-13T04:00:00,Lindaland,18,1409,99.0,Colleen Forbes
+2017-04-13T13:00:00,Amberfurt,6,991,709.0,Justin Elliott
+2017-04-13T15:00:00,Lake Brandon,2,2054,-171.0,Elizabeth Reed
+2017-04-13T18:00:00,West James,10,734,1018.0,April Conner
+2017-04-14T03:00:00,South Yvonneburgh,10,2678,-489.0,Nicole Morgan
+2017-04-14T05:00:00,Mcmahonside,12,842,229.0,Crystal Wilson
+2017-04-14T11:00:00,East Stephanieton,4,1705,1442.0,Todd Sutton
+2017-04-14T13:00:00,Priceside,1,777,-77.0,Lindsey Nelson
+2017-04-14T17:00:00,Port Andreafort,4,2442,1337.0,Tammy Salinas
+2017-04-14T23:00:00,Andrewburgh,3,1312,-178.0,Christopher Dean
+2017-04-15T08:00:00,South Charlesfort,3,2706,767.0,Deborah Williams
+2017-04-15T15:00:00,South Michaelberg,1,1420,920.0,Angela Porter
+2017-04-15T18:00:00,West Manuel,10,1899,306.0,Steven Whitehead
+2017-04-16T02:00:00,Westview,3,460,54.0,Alexander Cox
+2017-04-16T11:00:00,Lake Sueside,5,1634,335.0,Robert Smith
+2017-04-16T13:00:00,Port Steventon,9,1831,642.0,Michael Miller
+2017-04-16T22:00:00,Changport,13,2777,1535.0,Cindy Edwards
+2017-04-17T04:00:00,Teresatown,10,1469,329.0,Natasha Garcia
+2017-04-17T12:00:00,Port John,7,1912,994.0,Erik Jones
+2017-04-17T19:00:00,North David,9,2735,-236.0,Billy Hensley
+2017-04-17T22:00:00,East Brittneyland,19,2555,-154.0,Amanda Beasley
+2017-04-18T05:00:00,Jeffreyland,14,818,959.0,Jennifer Benton
+2017-04-18T14:00:00,West Judymouth,10,360,-368.0,Robert Rice
+2017-04-18T19:00:00,Mcdonaldmouth,7,228,331.0,Daniel Brown
+2017-04-19T01:00:00,Paynestad,12,2383,1081.0,Megan Wilcox
+2017-04-19T09:00:00,New Danielle,14,327,214.0,Victoria Walker
+2017-04-19T16:00:00,Waltertown,3,1216,657.0,Carlos Fitzpatrick
+2017-04-19T18:00:00,Jordanstad,5,2331,-468.0,Cynthia Morgan
+2017-04-20T02:00:00,Williamton,10,1946,-446.0,Erika Gomez
+2017-04-20T08:00:00,Lake Shannon,17,716,821.0,Adriana Hudson
+2017-04-20T17:00:00,Sarahstad,12,644,1498.0,Brandon Rivera
+2017-04-21T02:00:00,Hernandezchester,15,1884,653.0,Parker Franco
+2017-04-21T06:00:00,Craigshire,2,1317,1447.0,Michelle Jones
+2017-04-21T14:00:00,Johnville,14,876,-54.0,Miranda Spencer
+2017-04-21T17:00:00,East Courtneyshire,18,1345,986.0,Lisa Gardner
+2017-04-21T22:00:00,East Lindseychester,18,786,-483.0,Kevin Green
+2017-04-22T05:00:00,South Kennethville,11,2865,1338.0,Eric Mills
+2017-04-22T10:00:00,South Vanessastad,9,638,1322.0,Victor Reynolds
+2017-04-22T16:00:00,Adamtown,2,2479,1523.0,Sandra Mays
+2017-04-22T19:00:00,East Amy,14,2440,663.0,Kathryn Branch DDS
+2017-04-22T21:00:00,New Rebeccaborough,2,2831,690.0,William Drake
+2017-04-23T01:00:00,Lewisport,6,2730,782.0,Lori Allen
+2017-04-23T07:00:00,Samuelmouth,8,19,-387.0,Jennifer Smith
+2017-04-23T10:00:00,Port Meganburgh,16,1322,774.0,Chad Villanueva
+2017-04-23T19:00:00,Port Tyrone,15,1225,-144.0,Daniel Escobar
+2017-04-23T23:00:00,Gregorychester,13,2830,644.0,Justin Williams
+2017-04-24T06:00:00,South Nicole,6,2131,1511.0,Sherri Montgomery
+2017-04-24T13:00:00,Heatherfort,14,1940,537.0,Christopher White
+2017-04-24T20:00:00,Bryanside,16,1971,109.0,Lucas Stanley
+2017-04-25T02:00:00,Feliciabury,11,2648,1289.0,Jo Morrow
+2017-04-25T10:00:00,Janetstad,19,747,-168.0,Madison Evans
+2017-04-25T18:00:00,Collinsport,9,1378,198.0,Christopher Lopez
+2017-04-26T00:00:00,Lake Laura,3,2245,1570.0,James Weiss
+2017-04-26T03:00:00,Port Dianemouth,6,2359,1148.0,Krista Harris
+2017-04-26T07:00:00,Kellishire,11,2704,1585.0,Mariah Johnson
+2017-04-26T10:00:00,Alexisville,18,1976,1147.0,Kathryn Summers
+2017-04-26T11:00:00,Davidland,4,2937,-77.0,Erik Johnson
+2017-04-26T19:00:00,Patrickstad,2,422,1210.0,Kenneth Sullivan
+2017-04-26T23:00:00,North Lori,11,2789,-451.0,Michael Flores
+2017-04-27T07:00:00,Patelmouth,1,2163,285.0,Angelica Esparza
+2017-04-27T14:00:00,Port Erica,8,525,1560.0,Todd Mcbride
+2017-04-27T22:00:00,Castilloburgh,19,2833,-190.0,Corey Brown
+2017-04-28T07:00:00,Frostport,3,806,817.0,Jessica Hughes
+2017-04-28T15:00:00,Kimport,8,1835,1466.0,Hailey Roth
+2017-04-28T20:00:00,Valerietown,11,2770,191.0,Danny Wood
+2017-04-29T03:00:00,Lake Claire,19,1243,619.0,Brian Rogers
+2017-04-29T10:00:00,South Michelleshire,7,2917,968.0,Katherine Poole
+2017-04-29T16:00:00,Russellburgh,6,1735,513.0,Dominique Carr
+2017-04-30T00:00:00,Reneehaven,7,1308,1368.0,Evan Stokes
+2017-04-30T06:00:00,Bestfurt,17,733,244.0,Danielle Terrell
+2017-04-30T14:00:00,Port Marilynhaven,9,1167,504.0,James Montgomery
+2017-04-30T19:00:00,Port Kristen,6,1777,1010.0,Joseph Jones
+2017-05-01T03:00:00,North Kylemouth,4,299,1285.0,William Robinson
+2017-05-01T12:00:00,Jesseside,10,2267,-420.0,David Chan
+2017-05-01T13:00:00,Codyborough,5,785,-359.0,Carol Heath
+2017-05-01T18:00:00,Tonychester,18,1034,315.0,Laurie Mcdonald
+2017-05-01T20:00:00,Port Susan,8,1221,1365.0,Carolyn Blackwell
+2017-05-02T04:00:00,New Joy,14,2319,1409.0,Debra Mccullough
+2017-05-02T07:00:00,Gonzaleston,16,1714,727.0,Lori Arroyo
+2017-05-02T16:00:00,Andrewsburgh,19,1179,512.0,Scott Levine
+2017-05-03T00:00:00,Lake Jasmine,17,1631,-58.0,Robert Sexton
+2017-05-03T05:00:00,North Bonnieshire,19,2035,173.0,Andre Wilson
+2017-05-03T14:00:00,Johnburgh,19,2402,-226.0,James Shea
+2017-05-03T20:00:00,East Lisaton,11,2814,1253.0,Sharon Wade
+2017-05-04T00:00:00,Calebton,4,1566,1476.0,Christopher Scott
+2017-05-04T09:00:00,Schroederfurt,18,676,472.0,Brittany Weaver
+2017-05-04T10:00:00,Kristopherburgh,5,219,407.0,Tammy Johnson
+2017-05-04T19:00:00,East Connie,13,2394,762.0,Mark Robinson
+2017-05-05T04:00:00,Howardville,13,944,1024.0,Justin Gutierrez
+2017-05-05T05:00:00,Richardfort,17,1084,970.0,Alicia Harris
+2017-05-05T12:00:00,West Jessestad,10,111,-21.0,Michelle Johnson
+2017-05-05T13:00:00,East Kendra,3,1667,370.0,Jared Sanchez
+2017-05-05T18:00:00,Tylerport,6,841,953.0,Danielle Hart
+2017-05-05T23:00:00,East Chelsealand,7,2763,-175.0,Jay Campos
+2017-05-06T03:00:00,Kristinville,13,2809,-136.0,Cynthia Reed
+2017-05-06T09:00:00,New Michaelchester,15,636,107.0,Oscar Mann
+2017-05-06T15:00:00,Raymondton,11,1380,1266.0,Kaylee Stone
+2017-05-06T21:00:00,Port Tashaberg,9,1217,779.0,Ernest Clay
+2017-05-06T23:00:00,Mcintoshside,7,2244,694.0,Joshua Patterson
+2017-05-07T06:00:00,Martinezberg,10,2888,365.0,Brittany Gould DDS
+2017-05-07T10:00:00,Danielmouth,9,651,-171.0,Ryan Wu
+2017-05-07T16:00:00,Jeffersonfurt,16,523,53.0,Jimmy Porter
+2017-05-07T21:00:00,North Meganhaven,12,2857,969.0,Mrs. Madison Jones MD
+2017-05-07T23:00:00,New Scottchester,5,31,1172.0,Miss Patricia Villa DDS
+2017-05-08T07:00:00,Sanchezview,10,316,-120.0,Laura Lewis
+2017-05-08T14:00:00,West Richard,4,1914,870.0,Sean Anderson
+2017-05-08T23:00:00,Ellisberg,14,126,-414.0,Oscar Zamora
+2017-05-09T08:00:00,Port Scott,7,2775,-74.0,Francisco Chambers
+2017-05-09T16:00:00,Gonzalezview,9,976,898.0,Stephanie Nichols
+2017-05-09T17:00:00,South Kimberly,14,1466,131.0,Natalie Cannon
+2017-05-09T22:00:00,Mcgeeland,2,825,1336.0,Jennifer Robinson
+2017-05-10T06:00:00,Gonzalesborough,4,1255,-86.0,Paul Murray
+2017-05-10T08:00:00,Zunigaport,2,2854,501.0,Brandon Hernandez
+2017-05-10T17:00:00,Lake Tyler,3,864,191.0,Benjamin Chapman
+2017-05-11T02:00:00,New Andrea,9,833,1432.0,Kristen Smith
