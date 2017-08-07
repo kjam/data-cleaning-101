@@ -1,0 +1,17 @@
+jupyter
+pandas
+scikit-learn
+scipy
+requests
+fuzzywuzzy
+dask
+graphviz
+voluptuous
+engarde
+tdda
+faker
+hypothesis
+dataset
+distributed==1.16.0
+bokeh==0.12.4
+tornado==4.3
