@@ -9,3 +9,4 @@
 generate-*
 *.db
 **/.hypothesis*
+*.png
