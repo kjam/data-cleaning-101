@@ -13,13 +13,18 @@ These lessons has been tested for Python 3.4 and Python 3.6 and primarily uses t
 ```pip install -r install_reqs.txt```
 
 
-I believe this will also work with Conda, although I am less familiar with Conda so please report issues!
+I believe this will also work with Conda, although I am less familiar with Conda so please report issues! (special thanks to @blue_hacker for this fix!)
 
-```conda install --yes --file conda_reqs.txt```
-
-You will then need to `pip install dedupe` (this is not yet available via Conda).
+```
+$ conda create -n dataclean --copy python=3.6
+$ source activate dataclean
+$ pip install -r install_reqs.txt
+```
 
 In addition, you will need to install [sqlite3](https://www.sqlite.org/) or make changes to the second day case study with a connection string to your database of choice. [more info](https://dataset.readthedocs.io/en/latest/quickstart.html#connecting-to-a-database)
+
+If you want to visualize graphs using Dask, you will need to install [Graphviz](http://www.graphviz.org/), which has special requirements on all platforms. For linux, it is usually available via the system package library (apt, yum). For other platforms, you might need to use a special installer. It is also [available via conda install graphviz](https://anaconda.org/anaconda/graphviz) and [pip install graphviz](https://pypi.python.org/pypi/graphviz), but these might not include all necessary dependencies for your OS. For best results, search for your
+OS and "install graphviz and dependencies" and follow a recent article on setup.
 
 ### Repository structure
 
