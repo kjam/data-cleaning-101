@@ -12,6 +12,6 @@ tdda
 faker
 hypothesis
 dataset
-distributed==1.16.0
-bokeh==0.12.4
-tornado==4.3
+distributed
+bokeh
+tornado
