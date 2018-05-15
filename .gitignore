@@ -2,6 +2,7 @@
 *.pyc
 *~
 .ropeproject*
+dask-worker-space*
 *.cfg
 .ipynb*
 *.log
