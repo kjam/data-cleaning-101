@@ -1,5 +1,5 @@
 ## Data Cleaning 101 
-
+This is a great resource for someone who wants to learn data cleaning.
 Welcome to the code repository for Practical Data Cleaning with Python! This is a two-day training offered through Safari with O'Reilly media. You can sign up by searching for the course on Safari.
 
 This course aims to give you a practical overview of data cleaning and validation libraries and methods in Python. Since we only have 6 hours, it can't go massively in-depth into any one library or tool, but I have tried to include useful tools I have found in my work and incorporate a mixture of the munging and testing I have seen in my own and others workflows. 
